@@ -6,7 +6,7 @@ Here’s a comprehensive **README.md** file for your **NeuraDoc AI** project. It
 
 **NeuraDoc AI** is an intelligent document assistant powered by advanced AI technologies. It allows users to upload PDF documents, ask questions, and receive precise, context-aware answers based on the content of the document. Built with cutting-edge tools like **Ollama**, **DeepSeek-R1**, **Streamlit**, **RAG**, and **LangChain**, NeuraDoc AI is designed to simplify document interaction and enhance productivity.
 
-![NeuraDoc AI Demo](neuroai)
+![NeuraDoc AI Demo](neuroai.png)
 *(Replace with an actual screenshot or GIF of your app in action.)*
 
 ---
